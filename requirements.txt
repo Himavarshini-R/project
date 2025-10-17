@@ -38,7 +38,7 @@ networkx==3.3
 numpy==1.26.4 
 opencv-python==4.9.0.80 
 packaging==24.1 
-Panda3D==1.10.14 
+Panda3D==1.10.13 
 pandas==2.2.2 
 parso==0.8.4 
 pillow==10.4.0 
